@@ -74,9 +74,10 @@ JSON
 ```
 # Запуск
 
+Для работы проекта требуется Python и библиотека Requests
+
 ## Установить Requests:
 ```text
-Для работы проекта требуется Python и библиотека Requests
 pip install requests
 
 python api_client.py
