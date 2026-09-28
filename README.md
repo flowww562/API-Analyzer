@@ -73,9 +73,9 @@ JSON
 Время создания файла: September 28 2026 13:31
 ```
 # Запуск
-
-## Для работы проекта требуется Python и библиотека Requests
-
+```text
+Для работы проекта требуется Python и библиотека Requests
+```
 ## Установить Requests:
 ```text
 pip install requests
